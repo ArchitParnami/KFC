@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1331722418 source:c:\users\archit\desktop\my projects\kfc\code\kfcproject\resource.rc
+
+1334509031 source:c:\users\archit\desktop\my projects\kfc\code\kfcproject\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
